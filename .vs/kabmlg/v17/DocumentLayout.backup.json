@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\pengguna\\tambahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\pengguna\\tambahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|c:\\users\\administrator\\source\\repos\\kabmlg\\kabmlg\\pengguna\\editpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\pengguna\\editpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\pengguna\\editpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\pengguna\\editpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\pengguna\\penggunalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\pengguna\\penggunalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\pengguna\\tambahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\pengguna\\tambahpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\pengguna\\penggunalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\pengguna\\penggunalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\pengguna\\detailpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\pengguna\\detailpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\pengguna\\detailpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\pengguna\\detailpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\barang\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\barang\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\barang\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\barang\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\barang\\usercontrol6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\barang\\usercontrol6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\barang\\usercontrol5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\barang\\usercontrol5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\barang\\usercontrol6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\barang\\usercontrol6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\barang\\usercontrol5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\barang\\usercontrol5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFEA09-A149-4E08-95CF-59266893D2CF}|kabmlg\\kabmlg.csproj|solutionrelative:kabmlg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kabmlg\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\usercontrol4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kabmlg\\usercontrol4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kabmlg\\UserControl4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kabmlg\\UserControl3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl1.cs",
+              "RelativeDocumentMoniker": "kabmlg\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl1.cs [Design]",
+              "RelativeToolTip": "kabmlg\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:16:44.435Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditPengguna.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\EditPengguna.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Pengguna\\EditPengguna.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\EditPengguna.cs [Design]",
+              "RelativeToolTip": "kabmlg\\Pengguna\\EditPengguna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:51:28.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TambahPengguna.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\TambahPengguna.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Pengguna\\TambahPengguna.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\TambahPengguna.cs*",
+              "RelativeToolTip": "kabmlg\\Pengguna\\TambahPengguna.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA3wBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:26:16.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PenggunaList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\PenggunaList.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Pengguna\\PenggunaList.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\PenggunaList.cs [Design]*",
+              "RelativeToolTip": "kabmlg\\Pengguna\\PenggunaList.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:15:20.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditPengguna.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\EditPengguna.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Pengguna\\EditPengguna.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\EditPengguna.cs",
+              "RelativeToolTip": "kabmlg\\Pengguna\\EditPengguna.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:54:04.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TambahPengguna.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\TambahPengguna.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Pengguna\\TambahPengguna.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\TambahPengguna.cs [Design]*",
+              "RelativeToolTip": "kabmlg\\Pengguna\\TambahPengguna.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:22:24.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PenggunaList.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\PenggunaList.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Pengguna\\PenggunaList.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\PenggunaList.cs*",
+              "RelativeToolTip": "kabmlg\\Pengguna\\PenggunaList.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAjwD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:17:33.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailPengguna.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\DetailPengguna.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Pengguna\\DetailPengguna.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\DetailPengguna.cs [Design]",
+              "RelativeToolTip": "kabmlg\\Pengguna\\DetailPengguna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:41:28.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailPengguna.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\DetailPengguna.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Pengguna\\DetailPengguna.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Pengguna\\DetailPengguna.cs",
+              "RelativeToolTip": "kabmlg\\Pengguna\\DetailPengguna.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:47:19.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Form2.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Form2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Form2.cs [Design]",
+              "RelativeToolTip": "kabmlg\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:16:59.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Form1.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Form1.cs [Design]",
+              "RelativeToolTip": "kabmlg\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:16:44.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Form2.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Form2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Form2.cs",
+              "RelativeToolTip": "kabmlg\\Form2.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAD4vz0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:57:33.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControl2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl2.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Barang\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl2.cs [Design]",
+              "RelativeToolTip": "kabmlg\\Barang\\UserControl2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:38:11.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserControl5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl5.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Barang\\UserControl5.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl5.cs [Design]",
+              "RelativeToolTip": "kabmlg\\Barang\\UserControl5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:07:13.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControl2.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl2.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Barang\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl2.cs",
+              "RelativeToolTip": "kabmlg\\Barang\\UserControl2.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:21:11.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControl6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl6.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Barang\\UserControl6.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl6.cs [Design]",
+              "RelativeToolTip": "kabmlg\\Barang\\UserControl6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:10:18.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl1.cs",
+              "RelativeDocumentMoniker": "kabmlg\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl1.cs",
+              "RelativeToolTip": "kabmlg\\UserControl1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:31:31.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserControl6.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl6.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Barang\\UserControl6.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl6.cs",
+              "RelativeToolTip": "kabmlg\\Barang\\UserControl6.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAArwDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:52:24.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserControl3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl3.cs",
+              "RelativeDocumentMoniker": "kabmlg\\UserControl3.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl3.cs [Design]",
+              "RelativeToolTip": "kabmlg\\UserControl3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:07:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserControl4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl4.cs",
+              "RelativeDocumentMoniker": "kabmlg\\UserControl4.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl4.cs [Design]",
+              "RelativeToolTip": "kabmlg\\UserControl4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:03:59.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Model1.edmx",
+              "RelativeDocumentMoniker": "kabmlg\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "kabmlg\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-02-06T12:17:29.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserControl5.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl5.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Barang\\UserControl5.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Barang\\UserControl5.cs",
+              "RelativeToolTip": "kabmlg\\Barang\\UserControl5.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAD4v0cAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:08:27.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserControl4.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl4.cs",
+              "RelativeDocumentMoniker": "kabmlg\\UserControl4.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl4.cs",
+              "RelativeToolTip": "kabmlg\\UserControl4.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:48:44.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserControl3.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl3.cs",
+              "RelativeDocumentMoniker": "kabmlg\\UserControl3.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\UserControl3.cs",
+              "RelativeToolTip": "kabmlg\\UserControl3.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAWwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:58:37.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\App.config",
+              "RelativeDocumentMoniker": "kabmlg\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\App.config",
+              "RelativeToolTip": "kabmlg\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAC3AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-06T12:16:52.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Form1.cs",
+              "RelativeDocumentMoniker": "kabmlg\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\kabmlg\\kabmlg\\Form1.cs",
+              "RelativeToolTip": "kabmlg\\Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:10:04.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
